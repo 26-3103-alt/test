@@ -4,5 +4,5 @@ st.set_page_config(
   page_title="문화재 훼손"
 )
 
-st.sisle("문화재 훼손 예측")
+st.title("문화재 훼손 예측")
 st.divider()
